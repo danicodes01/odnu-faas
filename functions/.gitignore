@@ -20,8 +20,7 @@ pubsub-debug.log
 serviceAccountKey.json
 
 # Package lock file
-../package-lock.json
-
+package-lock.json
 # Firebase project configuration (if necessary)
 ../.firebaserc
 ../firebase.json
